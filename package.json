@@ -1,0 +1,23 @@
+{
+  "name": "zcq1933",
+  "version": "1.0.0",
+  "description": "这是电视住readme",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zcq1933/zcq1933.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zcq1933/zcq1933/issues"
+  },
+  "homepage": "https://github.com/zcq1933/zcq1933#readme",
+  "devDependencies";
+     "gitbook-cli":"^2.3.2"
+}
+
+
