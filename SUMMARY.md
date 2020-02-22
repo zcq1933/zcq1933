@@ -1,3 +1,3 @@
-- [简介](README.md)
-- [第一章](ch01.md)
-- [第三章](ch02.md)
+- [introduce](README.md)
+- [ch01](ch01.md)
+- [ch02](ch02.md)
