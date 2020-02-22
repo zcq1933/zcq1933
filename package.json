@@ -16,8 +16,10 @@
     "url": "https://github.com/zcq1933/zcq1933/issues"
   },
   "homepage": "https://github.com/zcq1933/zcq1933#readme",
-  "devDependencies":
+  "devDependencies":{
      "gitbook-cli":"^2.3.2"
-}
+
+  
+}}
 
 
